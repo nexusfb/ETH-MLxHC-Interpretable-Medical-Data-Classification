@@ -1,3 +1,4 @@
 .DS_Store
 cnn_random.pt
 cnnmodel.pt
+.vscode
