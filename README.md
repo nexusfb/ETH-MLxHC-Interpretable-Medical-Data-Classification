@@ -1,6 +1,6 @@
 # Machine Learning for Health Care - ETH Zurich 
 # Project 1 - Group72
-# Medical Data Classifier
+# Interpretable-Medical-Data-Classification
 
 This repository contains interpretable and explainable classification models for medical data, focusing on two tasks:
 1. Predicting heart disease using various machine learning models, including Logistic Lasso Regression, Multi-Layer Perceptrons (MLPs), and Neural Additive Models (NAMs).
