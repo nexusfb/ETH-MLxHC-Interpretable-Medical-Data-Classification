@@ -20,9 +20,13 @@ This project develops interpretable models for heart disease prediction and pneu
 
 ## Project Structure
 ├── data/ # Contains the processed datasets for heart disease and pneumonia 
+
 ├── models/ # Machine learning and deep learning model implementations 
+
 ├── results/ # Model performance metrics and plots 
+
 ├── notebooks/ # Jupyter notebooks for exploration and analysis 
+
 └── README.md # This file
 
 
